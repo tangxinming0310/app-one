@@ -2,6 +2,7 @@
   "name": "module-federation-two",
   "version": "1.0.0",
   "scripts": {
+    "build": "webpack --mode production",
     "start": "webpack-dev-server --open --mode development"
   },
   "license": "MIT",
