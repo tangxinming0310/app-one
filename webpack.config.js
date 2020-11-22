@@ -8,7 +8,7 @@ module.exports = {
   },
 
   output: {
-    publicPath: 'http://localhost:12500'
+    publicPath: '/'
   },
 
   devServer: {
